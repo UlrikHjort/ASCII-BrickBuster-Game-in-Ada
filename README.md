@@ -1,7 +1,7 @@
 # ASCII BrickBuster Game in Ada
 
  <img src="https://img.shields.io/badge/Ada-2012-blue.svg" alt="Ada 2012">
-  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
+ <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
 
 A classic brick-breaking game written in Ada for Linux terminals using ASCII graphics.
 
